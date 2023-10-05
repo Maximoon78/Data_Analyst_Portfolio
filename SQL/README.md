@@ -1,3 +1,5 @@
+**DATA ANALYTICS WITH SQL**
+ 
  Within this portfolio, you'll discover a compilation of projects and resources designed to highlight the versatility and prowess of SQL in the world of data analysis.
 
  This repository showcases examples of SQL queries and scripts, illustrating my proficiency in leveraging SQL for data analysis.
